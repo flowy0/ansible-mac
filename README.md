@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/geerlingguy/mac-dev-playbook/master/files/Mac-Dev-Playbook-Logo.png" width="250" height="156" alt="Mac Dev Playbook Logo" />
+
+Mostly Based on https://github.com/geerlingguy/mac-dev-playbook
+
+
+---
 
 # Mac Development Ansible Playbook
 
